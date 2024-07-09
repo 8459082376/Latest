@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # Testimonal2
 # Testimonial
 # Hubnex_testimonial
+# Latest
