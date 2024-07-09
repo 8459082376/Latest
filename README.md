@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Testimonal
 # Testimonal2
 # Testimonal2
+# Testimonial
